@@ -52,3 +52,4 @@ start ShelbyGT500
 start SubaruWRXSTI
 start ToyotaSupraJZA80
 ```
+Or do start [cars] and SAVE time!
